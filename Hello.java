@@ -2,7 +2,7 @@ class Hello
 {
 public static void main(string args[])
 {
-System.out.println("hello edited locally")
+System.out.println("hello from master orgin")
 }
 }
 
